@@ -13,4 +13,14 @@
 let uname = "asad"
 let age = "16" 
 
+// Example of Number
+let lenght = 10
+let wiight = 7.5
 
+// Example of Boolean
+let isActive = false
+let Pakistani = true
+
+// Example of Bigint
+let x = 1234567890123456789012345n;
+let y = BigInt(1234567890123456789012345)
