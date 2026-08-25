@@ -1,0 +1,1 @@
+// A JavaScript variable can hold 8 types of data
