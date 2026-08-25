@@ -24,3 +24,14 @@ let Pakistani = true
 // Example of Bigint
 let x = 1234567890123456789012345n;
 let y = BigInt(1234567890123456789012345)
+
+// Example of Object
+let data = {name:"asad",age:"16"}
+
+// Example of Undefined
+let a;
+let b; 
+
+// Example of Null
+let c = null
+let d = null
