@@ -39,3 +39,8 @@ let d = null
 // Example of Symbol
 let e = Symbol()
 let f = Symbol()
+
+// The typeof Operator
+typeof ""             // Returns "string"
+typeof "John"         // Returns "string"
+typeof "John Doe"     // Returns "string"
