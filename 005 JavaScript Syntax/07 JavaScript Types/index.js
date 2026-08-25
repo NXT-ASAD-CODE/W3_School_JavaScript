@@ -8,3 +8,9 @@
 // 6. Null
 // 7. Symbol
 // 8. Object
+
+// Examples of String
+let uname = "asad"
+let age = "16" 
+
+
