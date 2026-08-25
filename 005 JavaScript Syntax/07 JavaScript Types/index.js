@@ -35,3 +35,7 @@ let b;
 // Example of Null
 let c = null
 let d = null
+
+// Example of Symbol
+let e = Symbol()
+let f = Symbol()
