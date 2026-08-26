@@ -77,3 +77,11 @@ let ac = 34;
 // Exponential Notation
 let ad = 123e5;    // 12300000
 let bc = 123e-5;   // 0.00123
+
+// JavaScript Booleans
+// JavaScript booleans can only have one of two values: true or false
+
+let Number = 5;
+
+(x == 8); // equals false
+(x != 8); // equals true
