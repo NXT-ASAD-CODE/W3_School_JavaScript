@@ -57,3 +57,12 @@ let carName1 = "XU XIN";
 
 // Using single quotes:
 let carName2 = 'XU XIN';
+
+// Single quote inside double quotes:
+let answer1 = "It's alright";
+
+// Single quotes inside double quotes:
+let answer2 = "He is called 'Johnny'";
+
+// Double quotes inside single quotes:
+let answer3 = 'He is called "Johnny"';
