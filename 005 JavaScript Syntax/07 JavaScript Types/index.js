@@ -50,3 +50,10 @@ typeof 314            // Returns "number"
 typeof 3.14           // Returns "number"
 typeof (3)            // Returns "number"
 typeof (3 + 4)        // Returns "number"
+
+// JavaScript Strings
+// Using double quotes:
+let carName1 = "XU XIN";
+
+// Using single quotes:
+let carName2 = 'XU XIN';
