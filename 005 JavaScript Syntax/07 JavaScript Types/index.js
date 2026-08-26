@@ -73,3 +73,7 @@ let ab = 34.00;
 
 // Without decimals:
 let ac = 34;
+
+// Exponential Notation
+let ad = 123e5;    // 12300000
+let bc = 123e-5;   // 0.00123
