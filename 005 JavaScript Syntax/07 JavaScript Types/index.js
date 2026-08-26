@@ -66,3 +66,10 @@ let answer2 = "He is called 'Johnny'";
 
 // Double quotes inside single quotes:
 let answer3 = 'He is called "Johnny"';
+
+// JavaScript Numbers
+// With decimals:
+let ab = 34.00;
+
+// Without decimals:
+let ac = 34;
