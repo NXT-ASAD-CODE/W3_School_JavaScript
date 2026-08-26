@@ -85,3 +85,9 @@ let Number = 5;
 
 (x == 8); // equals false
 (x != 8); // equals true
+
+// Datatype undefined
+let carName; // Undefined Value
+
+// Empty Values
+let car = "";    // The value is "", the typeof is "string"
