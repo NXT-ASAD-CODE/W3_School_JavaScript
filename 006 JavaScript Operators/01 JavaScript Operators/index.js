@@ -16,4 +16,20 @@
 // Assignment Examples
 let a = 10;
 let b = 10;
-let c = a + b;
+
+// JavaScript Addition
+// The Addition Operator (+) adds numbers:
+
+// Addition Examples
+let c = 20;
+let d = 10;
+let e = c + d;
+
+// Types of JavaScript Operators
+// There are different types of JavaScript operators:
+
+// Arithmetic Operators
+// Assignment Operators
+// Comparison Operators
+// Logical Operators
+// And more ...
