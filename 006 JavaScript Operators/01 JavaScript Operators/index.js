@@ -41,3 +41,15 @@ let e = c + d;
 // Arithmetic Operators Example
 let f = 10;
 let g = (100 + 50) * a;
+
+// JavaScript String Addition
+// The + can also be used to add (concatenate) strings:
+// Example
+let text1 = "Asad";
+let text2 = "Iftikhar";
+let text3 = text1 + " " + text2;
+
+// The += assignment operator can also be used to add (concatenate) strings:
+// Example
+let text4 = "What a very ";
+text4 += "nice day";
