@@ -33,3 +33,11 @@ let e = c + d;
 // Comparison Operators
 // Logical Operators
 // And more ...
+
+
+// JavaScript Arithmetic Operators
+// Arithmetic Operators are used to perform arithmetic on numbers:
+
+// Arithmetic Operators Example
+let f = 10;
+let g = (100 + 50) * a;
