@@ -77,3 +77,6 @@ let y = x ** 2;
 // x ** y produces the same result as Math.pow(x,y):
 let ab = 5;
 let z = Math.pow(ab,2);
+
+// Operator Precedence(BODMAS Rule)
+let ac = 100 + 50 * 3
