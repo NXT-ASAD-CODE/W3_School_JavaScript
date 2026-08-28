@@ -70,3 +70,10 @@ v--;
 let w = v;
 
 // Exponentiation
+// Example
+let x = 5;
+let y = x ** 2;
+
+// x ** y produces the same result as Math.pow(x,y):
+let ab = 5;
+let z = Math.pow(ab,2);
