@@ -56,3 +56,17 @@ let p = n / o;
 let q = 5;
 let r = 2;
 let s = q % r;
+
+// Incrementing
+// Example
+let t = 5;
+t++;
+let u = t;
+
+// Decrementing
+// Example
+let v = 5;
+v--;
+let w = v;
+
+// Exponentiation
