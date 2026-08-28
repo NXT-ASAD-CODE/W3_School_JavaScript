@@ -32,3 +32,27 @@ let d = (100 + 50) * a;
 let e = 5;
 let f = 2;
 let g = e + f;
+
+// Subtracting
+// Example
+let h = 5;
+let i = 2;
+let j = h - i;
+
+// Multiplying
+// Example
+let k = 5;
+let l = 2;
+let m = k * l;
+
+// Dividing
+// Example
+let n = 5;
+let o = 2;
+let p = n / o;
+
+// Remainder
+// Example
+let q = 5;
+let r = 2;
+let s = q % r;
