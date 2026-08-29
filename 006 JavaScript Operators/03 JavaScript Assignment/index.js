@@ -11,3 +11,10 @@
 //   /=	      x /= y	x = x / y	 x = 2
 //   %=	      x %= y	x = x % y	 x = 0
 //   :	      x: 45	    size.x = 45	 x = 45
+
+// Logical Assignment Operators
+
+// Operator	  Example	   Result
+//   &&=	true &&= 10	   x = 10
+//   ||=	false ||= 10   x = 10
+//   ??=	null ??= 10	   x = 10
