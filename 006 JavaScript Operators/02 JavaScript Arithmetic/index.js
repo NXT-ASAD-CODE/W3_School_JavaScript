@@ -79,4 +79,11 @@ let ab = 5;
 let z = Math.pow(ab,2);
 
 // Operator Precedence(BODMAS Rule)
+// Example 1
 let ac = 100 + 50 * 3
+
+// Example 2
+let ad = 100 + 50 - 3;
+
+// Example 3
+let ae = 100 / 50 * 3;
