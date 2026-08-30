@@ -57,3 +57,9 @@ f **= 5;
 // Division Assignment Example
 let g = 10;
 g /= 5;
+
+// The %= Operator
+// The Remainder Assignment Operator assigns a remainder to a variable.
+// Remainder Assignment Example
+let h = 10;
+h %= 5;
