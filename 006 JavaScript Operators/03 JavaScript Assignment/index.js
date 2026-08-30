@@ -18,3 +18,6 @@
 //   &&=	true &&= 10	   x = 10
 //   ||=	false ||= 10   x = 10
 //   ??=	null ??= 10	   x = 10
+
+// The = operator
+// The Simple Assignment Operator assigns a simple value to a variable
