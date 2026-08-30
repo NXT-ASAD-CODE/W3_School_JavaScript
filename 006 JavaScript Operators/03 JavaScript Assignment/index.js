@@ -32,3 +32,10 @@ let b = 10 + a;
 // Addition Assignment Examples
 let c = 10;
 c += 5;
+
+// The -= Operator
+// The Subtraction Assignment Operator subtracts a value from a variable.
+
+// Subtraction Assignment Example
+let d = 10;
+d -= 5;
