@@ -51,3 +51,9 @@ e *= 5;
 // Exponentiation Assignment Example
 let f = 10;
 f **= 5;
+
+// The /= Operator
+// The Division Assignment Operator divides a variable.
+// Division Assignment Example
+let g = 10;
+g /= 5;
