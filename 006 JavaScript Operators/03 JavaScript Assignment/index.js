@@ -45,3 +45,9 @@ d -= 5;
 // Multiplication Assignment Example
 let e = 10;
 e *= 5;
+
+// The **= Operator
+// The Exponentiation Assignment Operator raises a variable to the power of the operand.
+// Exponentiation Assignment Example
+let f = 10;
+f **= 5;
