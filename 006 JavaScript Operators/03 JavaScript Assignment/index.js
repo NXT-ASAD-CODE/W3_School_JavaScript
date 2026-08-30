@@ -39,3 +39,9 @@ c += 5;
 // Subtraction Assignment Example
 let d = 10;
 d -= 5;
+
+// The *= Operator
+// The Multiplication Assignment Operator multiplies a variable.
+// Multiplication Assignment Example
+let e = 10;
+e *= 5;
