@@ -21,3 +21,14 @@
 
 // The = operator
 // The Simple Assignment Operator assigns a simple value to a variable
+
+// Simple Assignment Examples
+let a = 10;
+let b = 10 + a;
+
+// The += Operator
+// The Addition Assignment Operator adds a value to a variable.
+
+// Addition Assignment Examples
+let c = 10;
+c += 5;
