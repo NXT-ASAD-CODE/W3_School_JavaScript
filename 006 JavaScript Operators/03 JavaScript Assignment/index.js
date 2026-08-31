@@ -110,3 +110,24 @@ let p = x &&= 10;
 // Example 6
 let q = null;
 let r = x &&= 10;
+
+// The ||= Operator
+// The Logical OR assignment operator is used between two values.
+// If the first value is false, the second value is assigned.
+
+// Logical OR Assignment Examples
+// Example 1
+let ab = false;
+let ac = ab ||= 10;
+
+// Example 2
+let ad = true;
+let ae = ad ||= 10;
+
+// Example 3
+let af = null;
+let ag = af ||= 10;
+
+// Example 4
+let ah = undefined;
+let ai = ah ||= 10;
