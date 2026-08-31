@@ -63,3 +63,20 @@ g /= 5;
 // Remainder Assignment Example
 let h = 10;
 h %= 5;
+
+// String Assignment
+// Two assignment operators can assign values to strings:
+// The Simple Assignment Operator assigns a simple value to a string.
+// The Addition Assignment Operator adds a value to a string.
+
+// The = Operator
+// The Simple Assignment Operator assigns a value to a variable.
+
+// String Assignment Example
+let text1 = "Asad";
+
+// The += Operator
+// The Addition Assignment Operator Can also be used to add strings.
+
+// Addition Assignment Example
+let text2 = "Asad"; text += " Iftikhar";
