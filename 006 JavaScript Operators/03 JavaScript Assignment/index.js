@@ -84,5 +84,21 @@ let text2 = "Asad"; text += " Iftikhar";
 // The &&= Operator
 // The Logical AND assignment operator is used between two values.
 // If the first value is true, the second value is assigned.
+
+// Example 1
 let x = true;
 let y = x &&= 10;
+
+// Example 2
+let i = false;
+let j = x &&= 10;
+
+// (only 0, -0, 0n, NaN, null, undefined, "", and false are falsy).
+
+// Example 3
+let k = 1;
+let l = x &&= 10;
+
+// Example 4
+let m = 0;
+let n = x &&= 10;
