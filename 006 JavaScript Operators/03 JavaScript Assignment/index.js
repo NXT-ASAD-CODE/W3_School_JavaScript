@@ -80,3 +80,9 @@ let text1 = "Asad";
 
 // Addition Assignment Example
 let text2 = "Asad"; text += " Iftikhar";
+
+// The &&= Operator
+// The Logical AND assignment operator is used between two values.
+// If the first value is true, the second value is assigned.
+let x = true;
+let y = x &&= 10;
