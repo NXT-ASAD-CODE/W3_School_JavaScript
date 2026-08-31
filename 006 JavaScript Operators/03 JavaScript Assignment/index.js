@@ -102,3 +102,11 @@ let l = x &&= 10;
 // Example 4
 let m = 0;
 let n = x &&= 10;
+
+// Example 5
+let o = undefined;
+let p = x &&= 10;
+
+// Example 6
+let q = null;
+let r = x &&= 10;
