@@ -174,3 +174,10 @@ ao ??= 10;
 // null	    The absence of any value
 // undefined	A variable that has not been assigned a value
 // NaN	"Not-a-Number," usually the result of an invalid math operation
+
+// The TRUTHY Values
+
+// "0"	A string containing a zero is truthy because it is not empty
+// "false"	The string "false" is truthy
+// [ ]	An empty array is truthy
+// { }	An empty object is truthy
