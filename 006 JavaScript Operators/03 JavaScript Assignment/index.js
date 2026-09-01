@@ -157,3 +157,10 @@ an ??= 10;
 let ao = 10;
 let ap = 5;
 ao ??= 10;
+
+// Quick Reference
+
+// Operator	  Result
+// x &&= y	  Assigns y to x only if x is truthy
+// x ||= y	  Assigns y to x only if x is falsy
+// x ??= y	  Assigns y to x only if x is null or undefined
