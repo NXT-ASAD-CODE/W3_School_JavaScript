@@ -184,3 +184,8 @@ ao ??= 10;
 
 // The Spread (...) Operator
 // The ... operator splits iterables into individual elements.
+
+let text = "12345";
+
+let min = Math.min(...text);
+let max = Math.max(...text);
