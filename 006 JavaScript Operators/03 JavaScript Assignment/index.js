@@ -164,3 +164,13 @@ ao ??= 10;
 // x &&= y	  Assigns y to x only if x is truthy
 // x ||= y	  Assigns y to x only if x is falsy
 // x ??= y	  Assigns y to x only if x is null or undefined
+
+// The 8 FALSY Values
+// false	The boolean keyword itself
+// 0	    The number zero
+// -0	    Negative zero
+// 0n	    BigInt zero
+// "", '', ``	Any empty string
+// null	    The absence of any value
+// undefined	A variable that has not been assigned a value
+// NaN	"Not-a-Number," usually the result of an invalid math operation
