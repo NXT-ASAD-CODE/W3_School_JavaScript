@@ -133,3 +133,27 @@ let ah = undefined;
 let ai = ah ||= 10;
 
 // The ??= Operator
+// The Nullish coalescing assignment operator is used between two values.
+// If the first value is undefined or null, the second value is assigned.
+
+// Nullish Coalescing Assignment Examples
+// Example 1
+let ak;
+ak ??= 10;
+
+// Example 2
+let al = 0;
+al ??= 10;
+
+// Example 3
+let am = null;
+am ??= 10;
+
+// Example 4
+let an = undefined;
+an ??= 10;
+
+// Example 5
+let ao = 10;
+let ap = 5;
+ao ??= 10;
