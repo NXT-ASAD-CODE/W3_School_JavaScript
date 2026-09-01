@@ -181,3 +181,6 @@ ao ??= 10;
 // "false"	The string "false" is truthy
 // [ ]	An empty array is truthy
 // { }	An empty object is truthy
+
+// The Spread (...) Operator
+// The ... operator splits iterables into individual elements.
