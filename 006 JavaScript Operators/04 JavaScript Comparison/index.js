@@ -38,3 +38,13 @@ let text4 = "5";
 let result1 = text1 < text2; // still true it will see the 2 not the 0
 
 // Comparing Different Types
+
+// Case	        Value	
+// 2 < 12	    true	
+// 2 < "12"	    true	
+// 2 < "John"	false	
+// 2 > "John"	false	
+// 2 == "John"	false	
+// "2" < "12"	false	
+// "2" > "12"	true	
+// "2" == "12"	false
