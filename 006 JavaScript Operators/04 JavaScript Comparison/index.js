@@ -36,3 +36,5 @@ let result = text1 < text2; // true
 let text3 = "20";
 let text4 = "5";
 let result1 = text1 < text2; // still true it will see the 2 not the 0
+
+// Comparing Different Types
