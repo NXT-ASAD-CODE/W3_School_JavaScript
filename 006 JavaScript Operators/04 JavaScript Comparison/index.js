@@ -18,3 +18,7 @@
 // <	less than	x < 8	true	
 // >=	greater than or equal to	  x >= 8	  false	
 // <=	less than or equal to	      x <= 8	  true
+
+
+// Comparison operators can be used in conditional statements to compare values and take action depending on the result:
+if (age < 18) text = "Too young for the car linecce";
