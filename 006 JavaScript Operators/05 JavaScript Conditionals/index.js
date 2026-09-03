@@ -14,3 +14,11 @@
 // Use else if to specify a new condition to test, if the first condition is false
 // Use switch to specify many alternative code blocks to be executed
 // Use (? :) (ternary) as a shorthand for if...else
+
+
+// The if Statement
+// Use if to specify a code block to be executed, if a specified condition is true.
+// Syntax
+if (condition) {
+  // code to execute if the condition is true
+}
