@@ -41,3 +41,21 @@ if (condition1) {
 } else {
   // code to execute if the condition1 is false and condition2 is false
 }
+
+// The switch Statement
+// Use switch to specify many alternative code blocks to be executed.
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+
+// Ternary Operator (? :)
+// Use (? :) (ternary) as a shorthand for if...else.
+// Example
+condition ? expression1 : expression2
