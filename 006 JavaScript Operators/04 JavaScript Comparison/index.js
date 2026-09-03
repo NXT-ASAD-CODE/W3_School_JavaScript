@@ -48,3 +48,10 @@ let result1 = text1 < text2; // still true it will see the 2 not the 0
 // "2" < "12"	false	
 // "2" > "12"	true	
 // "2" == "12"	false
+
+let age = Number(age);
+if (isNaN(age)) {
+  voteable = "Input is not a number";
+} else {
+  voteable = (age < 18) ? "Too young" : "Old enough";
+}
