@@ -31,3 +31,13 @@ if (condition) {
 } else {
   // code to execute if the condition is false
 }
+
+// The else if Statement
+// Use else if to specify a new condition to test, if the first condition is false.
+if (condition1) {
+  // code to execute if condition1 is true
+} else if (condition2) {
+  // code to execute if the condition1 is false and condition2 is true
+} else {
+  // code to execute if the condition1 is false and condition2 is false
+}
