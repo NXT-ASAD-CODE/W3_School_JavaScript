@@ -22,3 +22,12 @@
 if (condition) {
   // code to execute if the condition is true
 }
+
+// The else Statement
+// Use else to specify a code block to be executed, if the same condition is false.
+// Syntax
+if (condition) {
+  // code to execute if the condition is true
+} else {
+  // code to execute if the condition is false
+}
