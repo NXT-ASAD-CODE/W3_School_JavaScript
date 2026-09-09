@@ -23,3 +23,12 @@ let text = "You can Not drive";
 if (age >= 18) {
   text = "You can drive";
 }
+
+
+// Example 3
+let age1 = 16;
+let text1 = "You can Not drive";
+
+if (age >= 18) {
+  text1 = "You can drive";
+}
