@@ -14,3 +14,12 @@ if (condition) {
 if (hour < 18) {
   greeting = "Good day";
 }
+
+// Examples 2
+
+let age = 18;
+let text = "You can Not drive";
+
+if (age >= 18) {
+  text = "You can drive";
+}
