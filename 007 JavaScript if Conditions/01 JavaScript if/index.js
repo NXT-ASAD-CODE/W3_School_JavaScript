@@ -32,3 +32,6 @@ let text1 = "You can Not drive";
 if (age >= 18) {
   text1 = "You can drive";
 }
+
+// Nested if
+// You can use an if statement inside another if statement:
