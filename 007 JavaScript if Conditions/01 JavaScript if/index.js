@@ -35,3 +35,14 @@ if (age >= 18) {
 
 // Nested if
 // You can use an if statement inside another if statement:
+
+// Example 
+let age2 = 16;
+let country2 = "PAK";
+let text2 = "You can Not drive!";
+
+if (country2 == "PAK") {
+  if (age >= 16) {
+    text = "You can drive!";
+  }
+}
