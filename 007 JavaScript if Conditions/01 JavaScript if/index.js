@@ -46,3 +46,15 @@ if (country2 == "PAK") {
     text = "You can drive!";
   }
 }
+
+// Nested if statements can make your code more complex.
+// A better solution is to use the logical AND operator:
+
+// Example of Logical AND Oprator
+let age3 = 16;
+let country3 = "Pak";
+let text3 = "You can Not drive!";
+
+if (country3 == "pak" && age >= 16) {
+  text = "You can drive!";
+}
