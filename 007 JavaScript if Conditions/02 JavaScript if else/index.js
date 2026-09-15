@@ -27,7 +27,7 @@ if (condition1) {
   //  block of code to be executed if the condition1 is false and condition2 is false
 }
 
-// Example  
+// Example 1
 // If time is less than 10:00, create a "Good morning" greeting, if not, but time is less than 20:00, create a "Good day" greeting, otherwise a "Good evening":
 
 if (time < 10) {
@@ -37,3 +37,13 @@ if (time < 10) {
 } else {
   greeting = "Good evening";
 }
+
+// Example 2
+// This example will write a link to either W3Schools or to the World nexcent store. By using a random number, there is a 50% chance for each of the links.
+let text;
+if (Math.random() < 0.5) {
+  text = "<a href='https://w3schools.com'>Visit W3Schools</a>";
+} else {
+  text = "<a href='https://www.nexcent.store/>Visit Nexcent</a>";
+}
+document.getElementById("demo").innerHTML = text;
