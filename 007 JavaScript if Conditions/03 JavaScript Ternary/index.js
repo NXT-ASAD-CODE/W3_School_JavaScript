@@ -14,3 +14,17 @@ let discount = isMember ? 0.2 : 0;
 
 // Syntax
 (condition) ? expression1 : expression2
+
+// Parameters
+// Parameter	Description
+// condition	Required.
+//              The condition to be tested.
+//              An expression that evaluates to true or false.
+// ?	        Required.
+//              The operator separating the condition from the expressions.
+// expression1	Required.
+//              The value to return if the condition is true.
+// :	        Required.
+//              The operator separating the expressions.
+// expression2	Required.
+//              The value to return if the condition is false.
