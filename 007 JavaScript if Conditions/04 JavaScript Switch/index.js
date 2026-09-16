@@ -6,3 +6,15 @@
 // switch executes the code blocks that matches an expression.
 
 // switch is often used as a more readable alternative to many if...else if...else statements, especially when dealing with multiple possible values.
+
+// Syntax
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
