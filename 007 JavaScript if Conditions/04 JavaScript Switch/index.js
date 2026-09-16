@@ -42,3 +42,8 @@ switch (new Date().getDay()) {
   case 6:
     day = "Saturday";
 }
+// The break Keyword
+// When JavaScript reaches a break keyword, it breaks out of the switch block.
+// This will stop the execution inside the switch block.
+// No more statements in the switch block will be executed.
+// It is not necessary to break the last case. The switch ends (breaks) there anyway.
