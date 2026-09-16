@@ -47,3 +47,11 @@ switch (new Date().getDay()) {
 // This will stop the execution inside the switch block.
 // No more statements in the switch block will be executed.
 // It is not necessary to break the last case. The switch ends (breaks) there anyway.
+
+
+// The default Keyword
+// The default keyword specifies a block of code to run if there is no case match.
+// The default keyword is optional.
+// The default can act as a fallback:
+
+// Example
