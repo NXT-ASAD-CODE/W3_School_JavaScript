@@ -55,3 +55,15 @@ switch (new Date().getDay()) {
 // The default can act as a fallback:
 
 // Example
+// The getDay() method returns the weekday as a number between 0 and 6.
+// If today is neither Saturday (6) nor Sunday (0), write a default message:
+switch (new Date().getDay()) {
+  case 6:
+    text = "Today is Saturday";
+    break;
+  case 0:
+    text = "Today is Sunday";
+    break;
+  default:
+    text = "Looking forward to the Weekend";
+}
